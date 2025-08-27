@@ -12,7 +12,7 @@ local overlayOverrides = {
   dunmorogh = {
     ironforgeairfields = "512,0,512,512",
     gnomereganreclamationfacility = "0,0,512,512",
-    rugfordsmountainrest = "512, 256, 512, 256"
+    rugfordsmountainrest = "512,256,512,256"
   },
   feralas = {
     chimaeraroostvale = "768,256,256,256",
@@ -25,11 +25,14 @@ local overlayOverrides = {
     scarletenclave10 = "256,512,256,256",
     scarletenclave11 = "512,512,256,256",
   },
+  swampofsorrows = {
+    sorrowguardkeep = "0,256,256,256"
+  },
   teldrassil = {
     ursanheights = "256,256,256,512",
   },
   tirisfal = {
-    thewhisperingforest = "0,256, 512, 512"
+    thewhisperingforest = "0,256,512,512"
   },
   wetlands = {
     dunagrath = "0,256,256,256",
