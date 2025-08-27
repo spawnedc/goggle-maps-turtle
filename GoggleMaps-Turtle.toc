@@ -1,0 +1,17 @@
+## Interface: 11200
+## Title: |cff4285f4G|cffea4335o|cfffbbc05g|cff4285f4g|cff34a853l|cffea4335e|cffffffffMaps |cffabd473Turtle
+## Author: spawnedc
+## Notes: Turtle WoW extension for GoggleMaps
+## Version: 0.0.1
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## Dependencies: GoggleMaps
+
+data\Map.Area.lua
+data\Map.Overlay.lua
+data\Map.MinimapBlocks.lua
+data\Map.Hotspots.lua
+
+overrides\Map.Overlay.lua
+
+GoggleMaps-Turtle.lua
