@@ -28,6 +28,9 @@ local overlayOverrides = {
   swampofsorrows = {
     sorrowguardkeep = "0,256,256,256"
   },
+  tanaris = {
+    sandmoonvillage = "512,0,256,256",
+  },
   teldrassil = {
     ursanheights = "256,256,256,512",
   },
