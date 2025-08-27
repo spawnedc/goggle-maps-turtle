@@ -15,7 +15,7 @@ local overlayOverrides = {
     rugfordsmountainrest = "512, 256, 512, 256"
   },
   feralas = {
-    feralas8 = "768,256,256,256",
+    chimaeraroostvale = "768,256,256,256",
   },
   scarletenclave = {
     scarletenclave2 = "256,0,256,256",
@@ -25,18 +25,15 @@ local overlayOverrides = {
     scarletenclave10 = "256,512,256,256",
     scarletenclave11 = "512,512,256,256",
   },
-  tirisfal = {
-    tirisfal5 = "0,256,256,256",
-    tirisfal6 = "256,256,256,256",
-    tirisfal9 = "0,512,256,256",
-    tirisfal10 = "256,512,256,256",
-  },
   teldrassil = {
     ursanheights = "256,256,256,512",
   },
+  tirisfal = {
+    thewhisperingforest = "0,256, 512, 512"
+  },
   wetlands = {
-    wetlands5 = "0,256,256,256",
-    wetlands6 = "256,256,256,256",
+    dunagrath = "0,256,256,256",
+    hawksvigil = "256,256,256,256",
   },
 }
 
