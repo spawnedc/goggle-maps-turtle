@@ -13,5 +13,6 @@ data\Map.MinimapBlocks.lua
 data\Map.Hotspots.lua
 
 overrides\Map.Overlay.lua
+overrides\Map.Hotspots.lua
 
 GoggleMaps-Turtle.lua
