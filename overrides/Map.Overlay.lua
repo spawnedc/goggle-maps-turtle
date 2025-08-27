@@ -7,8 +7,7 @@ local TEXTURE_START_INDEX = PREFIX_LENGTH + 1
 
 local overlayOverrides = {
   arathi = {
-    arathi2 = "256,0,256,256",
-    arathi3 = "512,0,256,256",
+    ruinsofzulrasaz = "256,0,512,256",
   },
   dunmorogh = {
     dunmorogh1 = "0,0,256,256",
