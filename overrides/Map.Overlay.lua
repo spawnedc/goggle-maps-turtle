@@ -10,13 +10,9 @@ local overlayOverrides = {
     ruinsofzulrasaz = "256,0,512,256",
   },
   dunmorogh = {
-    dunmorogh1 = "0,0,256,256",
-    dunmorogh2 = "256,0,256,256",
-    dunmorogh3 = "512,0,256,256",
-    dunmorogh4 = "768,0,256,256",
-    dunmorogh5 = "0,256,256,256",
-    dunmorogh7 = "512,256,256,256",
-    dunmorogh8 = "768,256,256,256",
+    ironforgeairfields = "512,0,512,512",
+    gnomereganreclamationfacility = "0,0,512,512",
+    rugfordsmountainrest = "512, 256, 512, 256"
   },
   feralas = {
     feralas8 = "768,256,256,256",
