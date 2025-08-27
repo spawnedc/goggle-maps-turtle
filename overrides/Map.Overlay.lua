@@ -17,6 +17,9 @@ local overlayOverrides = {
     gnomereganreclamationfacility = "0,0,512,512",
     rugfordsmountainrest = "512,256,512,256"
   },
+  dustwallow = {
+    westhavenhollow = "512,256,256,512",
+  },
   easternplaguelands = {
     forlornsummit = "0,0,512,512"
   },
