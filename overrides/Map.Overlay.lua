@@ -36,6 +36,10 @@ local overlayOverrides = {
     TURTLEtirisfal9 = "0,512,256,256",
     TURTLEtirisfal10 = "256,512,256,256",
   },
+  teldrassil = {
+    TURTLEteldrassil6 = "256,256,256,256",
+    TURTLEteldrassil10 = "256,512,256,256",
+  },
   wetlands = {
     TURTLEwetlands5 = "0,256,256,256",
     TURTLEwetlands6 = "256,256,256,256",
