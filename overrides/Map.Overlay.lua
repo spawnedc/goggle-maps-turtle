@@ -7,42 +7,42 @@ local TEXTURE_START_INDEX = PREFIX_LENGTH + 1
 
 local overlayOverrides = {
   arathi = {
-    TURTLEarathi2 = "256,0,256,256",
-    TURTLEarathi3 = "512,0,256,256",
+    arathi2 = "256,0,256,256",
+    arathi3 = "512,0,256,256",
   },
   dunmorogh = {
-    TURTLEdunmorogh1 = "0,0,256,256",
-    TURTLEdunmorogh2 = "256,0,256,256",
-    TURTLEdunmorogh3 = "512,0,256,256",
-    TURTLEdunmorogh4 = "768,0,256,256",
-    TURTLEdunmorogh5 = "0,256,256,256",
-    TURTLEdunmorogh7 = "512,256,256,256",
-    TURTLEdunmorogh8 = "768,256,256,256",
+    dunmorogh1 = "0,0,256,256",
+    dunmorogh2 = "256,0,256,256",
+    dunmorogh3 = "512,0,256,256",
+    dunmorogh4 = "768,0,256,256",
+    dunmorogh5 = "0,256,256,256",
+    dunmorogh7 = "512,256,256,256",
+    dunmorogh8 = "768,256,256,256",
   },
   feralas = {
-    TURTLEferalas8 = "768,256,256,256",
+    feralas8 = "768,256,256,256",
   },
   scarletenclave = {
-    TURTLEscarletenclave2 = "256,0,256,256",
-    TURTLEscarletenclave3 = "512,0,256,256",
-    TURTLEscarletenclave6 = "256,256,256,256",
-    TURTLEscarletenclave7 = "512,256,256,256",
-    TURTLEscarletenclave10 = "256,512,256,256",
-    TURTLEscarletenclave11 = "512,512,256,256",
+    scarletenclave2 = "256,0,256,256",
+    scarletenclave3 = "512,0,256,256",
+    scarletenclave6 = "256,256,256,256",
+    scarletenclave7 = "512,256,256,256",
+    scarletenclave10 = "256,512,256,256",
+    scarletenclave11 = "512,512,256,256",
   },
   tirisfal = {
-    TURTLEtirisfal5 = "0,256,256,256",
-    TURTLEtirisfal6 = "256,256,256,256",
-    TURTLEtirisfal9 = "0,512,256,256",
-    TURTLEtirisfal10 = "256,512,256,256",
+    tirisfal5 = "0,256,256,256",
+    tirisfal6 = "256,256,256,256",
+    tirisfal9 = "0,512,256,256",
+    tirisfal10 = "256,512,256,256",
   },
   teldrassil = {
-    TURTLEteldrassil6 = "256,256,256,256",
-    TURTLEteldrassil10 = "256,512,256,256",
+    teldrassil6 = "256,256,256,256",
+    teldrassil10 = "256,512,256,256",
   },
   wetlands = {
-    TURTLEwetlands5 = "0,256,256,256",
-    TURTLEwetlands6 = "256,256,256,256",
+    wetlands5 = "0,256,256,256",
+    wetlands6 = "256,256,256,256",
   },
 }
 
@@ -51,7 +51,7 @@ for textureFolder, overlays in pairs(overlayOverrides) do
     if not GoggleMaps.Map.Overlay[textureFolder] then
       GoggleMaps.Map.Overlay[textureFolder] = {}
     end
-    GoggleMaps.Map.Overlay[textureFolder][overlay] = overlayData
+    GoggleMaps.Map.Overlay[textureFolder][TURTLE_PREFIX .. overlay] = overlayData
   end
 end
 
