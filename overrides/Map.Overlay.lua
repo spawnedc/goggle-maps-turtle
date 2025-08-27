@@ -37,8 +37,7 @@ local overlayOverrides = {
     tirisfal10 = "256,512,256,256",
   },
   teldrassil = {
-    teldrassil6 = "256,256,256,256",
-    teldrassil10 = "256,512,256,256",
+    ursanheights = "256,256,256,512",
   },
   wetlands = {
     wetlands5 = "0,256,256,256",
