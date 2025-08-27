@@ -9,6 +9,9 @@ local overlayOverrides = {
   arathi = {
     ruinsofzulrasaz = "256,0,512,256",
   },
+  badlands = {
+    ruinsofcorthan = "0,0,512,256"
+  },
   dunmorogh = {
     ironforgeairfields = "512,0,512,512",
     gnomereganreclamationfacility = "0,0,512,512",
