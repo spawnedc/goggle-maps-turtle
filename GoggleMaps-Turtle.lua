@@ -15,3 +15,8 @@ GoggleMaps.Overlay.GetFullTexturePath = function(textureFolder, textureName, tex
 
   return originalGetFullTexturePath(textureFolder, textureName, textureIndex)
 end
+
+-- Disable Atlas compat. Turtle provides own maps and zones
+function GoggleMaps.compat.atlas:Init() end
+
+function GoggleMaps.compat.atlas:Start() end
