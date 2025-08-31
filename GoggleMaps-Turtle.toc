@@ -8,6 +8,7 @@
 ## Dependencies: GoggleMaps
 
 data\Map.Area.lua
+data\Map.InstanceInfo.lua
 data\Map.Overlay.lua
 data\Map.MinimapBlocks.lua
 data\Map.Hotspots.lua
