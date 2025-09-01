@@ -2,7 +2,7 @@
 ## Title: |cff4285f4G|cffea4335o|cfffbbc05g|cff4285f4g|cff34a853l|cffea4335e|cffffffffMaps |cffabd473Turtle
 ## Author: spawnedc
 ## Notes: Turtle WoW extension for GoggleMaps
-## Version: 0.0.1
+## Version: 1.0.0
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 ## Dependencies: GoggleMaps
