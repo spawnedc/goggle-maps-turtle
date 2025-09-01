@@ -1,10 +1,10 @@
-# <font color="#4285f4">G</font><font color="#ea4335">o</font><font color="#fbbc05">g</font><font color="#4285f4">g</font><font color="#34a853">l</font><font color="#ea4335">e</font>Maps <font color="#abd473">Turtle</font>
+# GoggleMaps Turtle
 
 *An enhanced mapping addon for Turtle WoW with support for custom zones and instance maps.*
 
-### 🌍 Overview
+## 🌍 Overview
 
-**<font color="#4285f4">G</font><font color="#ea4335">o</font><font color="#fbbc05">g</font><font color="#4285f4">g</font><font color="#34a853">l</font><font color="#ea4335">e</font><font color="#ffffff">Maps</font> <font color="#abd473">Turtle</font>** is an extension of the original **<font color="#4285f4">G</font><font color="#ea4335">o</font><font color="#fbbc05">g</font><font color="#4285f4">g</font><font color="#34a853">l</font><font color="#ea4335">e</font><font color="#ffffff">Maps</font>** addon, built specifically for **Turtle WoW**.
+**GoggleMaps Turtle** is an extension of the original **Goggle Maps** addon, built specifically for **Turtle WoW**.
 
 It includes:
 
@@ -16,7 +16,7 @@ It includes:
 
 ---
 
-### ✨ Features
+## ✨ Features
 
 - 📜 **Continent & Zone Maps** – Includes all Vanilla zones **plus Turtle WoW’s custom content**.
 - 🗺️ **Instance Maps** – View dungeons and raids with **player positions marked inside**.
@@ -27,7 +27,7 @@ It includes:
 
 ---
 
-### 📊 Feature Comparison
+## 📊 Feature Comparison
 
 | Feature                             | Goggle Maps (Vanilla) | Goggle Maps Turtle |
 |-------------------------------------|------------------------|----------------------------------|
@@ -40,9 +40,9 @@ It includes:
 
 ---
 
-### 📦 Installation
+## 📦 Installation
 
-1. Install the base **<font color="#4285f4">G</font><font color="#ea4335">o</font><font color="#fbbc05">g</font><font color="#4285f4">g</font><font color="#34a853">l</font><font color="#ea4335">e</font><font color="#ffffff">Maps</font>** addon:
+1. Install the base **Goggle Maps** addon:
 
    ```bash
    git clone https://github.com/spawnedc/goggle-maps
