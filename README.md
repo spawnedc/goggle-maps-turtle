@@ -4,7 +4,7 @@
 
 ## 🌍 Overview
 
-**GoggleMaps Turtle** is an extension of the original **Goggle Maps** addon, built specifically for **Turtle WoW**.
+**GoggleMaps Turtle** is an extension of the original **GoggleMaps** addon, built specifically for **Turtle WoW**.
 
 It includes:
 
@@ -12,7 +12,7 @@ It includes:
 - **Instance maps with real-time player positioning**
 - Native support for **Turtle’s own dungeon maps**
 
-⚠️ **Important:** This addon **requires the base [Goggle Maps](https://github.com/spawnedc/goggle-maps)** addon to be installed.
+⚠️ **Important:** This addon **requires the base [GoggleMaps](https://github.com/spawnedc/goggle-maps)** addon to be installed.
 
 ---
 
@@ -29,7 +29,7 @@ It includes:
 
 ## 📊 Feature Comparison
 
-| Feature                             | Goggle Maps (Vanilla) | Goggle Maps Turtle |
+| Feature                             | GoggleMaps (Vanilla) | GoggleMaps Turtle |
 |-------------------------------------|------------------------|----------------------------------|
 | Continent & Zone Maps               | ✅ | ✅ |
 | Zoom to Minimap Textures            | ✅ | ✅ |
@@ -42,21 +42,10 @@ It includes:
 
 ## 📦 Installation
 
-1. Install the base **Goggle Maps** addon:
-
-   ```bash
-   git clone https://github.com/spawnedc/goggle-maps
-   ```
-
-   Place the GoggleMaps folder inside your World of Warcraft\Interface\AddOns\ directory.
-
-2. Install the Turtle Edition addon:
-
-    ```bash
-    git clone https://github.com/spawnedc/goggle-maps-turtle
-    ```
-
-3. Launch Turtle WoW and enable both Goggle Maps and Goggle Maps – Turtle Edition in the AddOns menu.
+1. Download the latest release of **GoggleMaps**: <https://github.com/spawnedc/goggle-maps/releases/latest>
+2. Download the latest release of **GoggleMaps Turtle**: <https://github.com/spawnedc/goggle-maps-turtle/releases/latest>
+3. Extract both folders into: `<TURTLE_WOW folder>\Interface\AddOns\`
+4. Launch Turtle WoW and enable both GoggleMaps and GoggleMaps Turtle in the AddOns menu.
 
 ---
 
@@ -64,6 +53,6 @@ It includes:
 
 - **Game version:** Turtle WoW
 - **Required Addon:**
-  - [Goggle Maps (Vanilla)](https://github.com/spawnedc/goggle-maps)
+  - [GoggleMaps (Vanilla)](https://github.com/spawnedc/goggle-maps)
 - **Optional Addons:**
   - [pfQuest (Turtle)](https://github.com/shagu/pfQuest)
